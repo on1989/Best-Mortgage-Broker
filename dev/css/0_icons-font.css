@@ -1,0 +1,198 @@
+/**
+custom-icons Webfont
+*/
+
+@font-face {
+    font-family: 'GOTHIC';
+    src: url('../fonts/GOTHIC.ttf');
+    src: url('../fonts/GOTHIC-icons.eot') format('embedded-opentype'), url('../fonts/GOTHIC-icons.woff2') format('woff2'), url('../fonts/customGOTHICicons.woff') format('woff'), url('../fonts/GOTHIC-icons.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'custom-icons';
+    src: url('../fonts/custom-icons.eot?1582892964319');
+    src: url('../fonts/custom-icons.eot?#iefix-1582892964319') format('embedded-opentype'), url('../fonts/custom-icons.woff2?1582892964319') format('woff2'), url('../fonts/custom-icons.woff?1582892964319') format('woff'), url('../fonts/custom-icons.ttf?1582892964319') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^='icon-']:before,
+[class*=' icon-']:before {
+    font-family: 'custom-icons';
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1;
+    font-weight: normal;
+    font-style: normal;
+    speak: none;
+    text-decoration: inherit;
+    font-size: inherit;
+    text-transform: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/*
+Glyphs list
+*/
+
+.icon-analyzer:before {
+        content: '\ea01';
+    }
+    .icon-bank:before {
+        content: '\ea02';
+    }
+    .icon-banks:before {
+        content: '\ea03';
+    }
+    .icon-blender-mortgage:before {
+        content: '\ea04';
+    }
+    .icon-brokers:before {
+        content: '\ea05';
+    }
+    .icon-check:before {
+        content: '\ea06';
+    }
+    .icon-clock:before {
+        content: '\ea07';
+    }
+    .icon-commercial-mortgages:before {
+        content: '\ea08';
+    }
+    .icon-construction-calculator:before {
+        content: '\ea09';
+    }
+    .icon-construction-financing:before {
+        content: '\ea0a';
+    }
+    .icon-debt-consolidation:before {
+        content: '\ea0b';
+    }
+    .icon-equity-takeout:before {
+        content: '\ea0c';
+    }
+    .icon-facebook:before {
+        content: '\ea0d';
+    }
+    .icon-financial-calculator:before {
+        content: '\ea0e';
+    }
+    .icon-grid-two:before {
+        content: '\ea0f';
+    }
+    .icon-grid:before {
+        content: '\ea10';
+    }
+    .icon-heloc:before {
+        content: '\ea11';
+    }
+    .icon-home-buyer-mortgage:before {
+        content: '\ea12';
+    }
+    .icon-home-mortgage:before {
+        content: '\ea13';
+    }
+    .icon-home:before {
+        content: '\ea14';
+    }
+    .icon-instagram:before {
+        content: '\ea15';
+    }
+    .icon-interest-comparison:before {
+        content: '\ea16';
+    }
+    .icon-land-tax:before {
+        content: '\ea17';
+    }
+    .icon-left:before {
+        content: '\ea18';
+    }
+    .icon-linkedin:before {
+        content: '\ea19';
+    }
+    .icon-mail:before {
+        content: '\ea1a';
+    }
+    .icon-marker:before {
+        content: '\ea1b';
+    }
+    .icon-maximum-mortgage:before {
+        content: '\ea1c';
+    }
+    .icon-minus:before {
+        content: '\ea1d';
+    }
+    .icon-mortgage-analyzer:before {
+        content: '\ea1e';
+    }
+    .icon-mortgage-calculator:before {
+        content: '\ea1f';
+    }
+    .icon-mortgage-payment:before {
+        content: '\ea20';
+    }
+    .icon-mortgage-porting:before {
+        content: '\ea21';
+    }
+    .icon-mortgage-qualifier:before {
+        content: '\ea22';
+    }
+    .icon-mortgage-refinancing:before {
+        content: '\ea23';
+    }
+    .icon-mortgage-renewal:before {
+        content: '\ea24';
+    }
+    .icon-mortgage-savings:before {
+        content: '\ea25';
+    }
+    .icon-mortgage-self-employed:before {
+        content: '\ea26';
+    }
+    .icon-news:before {
+        content: '\ea27';
+    }
+    .icon-payment-calculator:before {
+        content: '\ea28';
+    }
+    .icon-phone:before {
+        content: '\ea29';
+    }
+    .icon-plus:before {
+        content: '\ea2a';
+    }
+    .icon-private-mortgages:before {
+        content: '\ea2b';
+    }
+    .icon-rent-analyzer:before {
+        content: '\ea2c';
+    }
+    .icon-residential-mortgage:before {
+        content: '\ea2d';
+    }
+    .icon-reverse-mortgage:before {
+        content: '\ea2e';
+    }
+    .icon-right:before {
+        content: '\ea2f';
+    }
+    .icon-search:before {
+        content: '\ea30';
+    }
+    .icon-second-mortgage:before {
+        content: '\ea31';
+    }
+    .icon-star:before {
+        content: '\ea32';
+    }
+    .icon-twitter:before {
+        content: '\ea33';
+    }
+    .icon-yelp:before {
+        content: '\ea34';
+    }
